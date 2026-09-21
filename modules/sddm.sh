@@ -1,7 +1,7 @@
 module_sddm() {
     section "SDDM"
-    local wallpaper_src="${SCRIPT_DIR}/assets/sddm.jpg"
-    local wallpaper_dst=/usr/share/wallpapers/custom/sddm.jpg
+    local wallpaper_src="${SCRIPT_DIR}/assets/sddm.png"
+    local wallpaper_dst=/usr/share/wallpapers/custom/sddm.png
     if [[ -f "$wallpaper_src" ]]; then
         sudo mkdir -p /usr/share/wallpapers/custom/
         sudo cp "$wallpaper_src" "$wallpaper_dst"
