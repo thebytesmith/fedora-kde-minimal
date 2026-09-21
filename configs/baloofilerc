@@ -1,0 +1,4 @@
+[General]
+dbVersion=2
+folders[$e]=$HOME/Desktop/,$HOME/Documents/,$HOME/Downloads/,$HOME/Music/,$HOME/Pictures/,$HOME/Videos/,$HOME/workspace/code workspaces/
+only basic indexing=true

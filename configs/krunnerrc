@@ -1,0 +1,14 @@
+[General]
+FreeFloating=true
+
+[Plugins]
+baloosearchEnabled=true
+helprunnerEnabled=false
+krunner_appstreamEnabled=false
+krunner_bookmarksrunnerEnabled=false
+krunner_keysEnabled=false
+krunner_shellEnabled=false
+org.kde.activities2Enabled=false
+
+[Plugins][Favorites]
+plugins=krunner_services,baloosearch,krunner_powerdevil,krunner_systemsettings
